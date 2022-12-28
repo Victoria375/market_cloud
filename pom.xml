@@ -8,6 +8,7 @@
         <module>cloud-client</module>
         <module>cloud-server</module>
         <module>common</module>
+        <module>gateway-service</module>
     </modules>
 
 <!--    <parent>-->

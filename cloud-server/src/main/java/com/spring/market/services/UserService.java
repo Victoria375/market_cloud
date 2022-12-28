@@ -1,8 +1,8 @@
 package com.spring.market.services;
 
-import com.spring.market.online_market.entities.Role;
-import com.spring.market.online_market.entities.User;
-import com.spring.market.online_market.repositories.UserRepository;
+import com.spring.market.entities.Role;
+import com.spring.market.entities.User;
+import com.spring.market.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

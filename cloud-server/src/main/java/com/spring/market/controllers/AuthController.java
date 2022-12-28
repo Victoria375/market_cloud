@@ -1,9 +1,9 @@
 package com.spring.market.controllers;
 
-import com.spring.market.online_market.dto.JwtRequest;
-import com.spring.market.online_market.dto.JwtResponse;
-import com.spring.market.online_market.services.UserService;
-import com.spring.market.online_market.utils.JwtTokenUtil;
+import com.spring.market.dto.JwtRequest;
+import com.spring.market.dto.JwtResponse;
+import com.spring.market.services.UserService;
+import com.spring.market.utils.JwtTokenUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
